@@ -1,0 +1,5 @@
+thistuple = ("apple", "banana", "cherry")
+print(thistuple)
+print(len(thistuple))
+mytuple = ("apple")
+print(type(mytuple))
